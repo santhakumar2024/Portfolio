@@ -33,7 +33,7 @@ const Hero = () => {
               View Projects
               <ArrowRight className="ml-2 group-hover:translate-x-1 transition-transform" size={18} />
             </a>
-            <a href="resume/resume.pdf" download="Santhakumar_JS_Resume.pdf" className="btn btn-outline gap-2">
+            <a href="https://drive.google.com/file/d/1MBW74meBhwy4OfKrYEvGXrFn72HWM7f3/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="btn btn-outline gap-2">
               <Download size={18} />
               Download Resume
             </a>
