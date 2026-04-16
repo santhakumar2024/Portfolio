@@ -51,7 +51,7 @@ const Hero = () => {
         >
           <div className="relative z-10 w-full aspect-square max-w-[500px] mx-auto overflow-hidden rounded-3xl shadow-2xl grayscale hover:grayscale-0 transition-all duration-700 bg-slate-100 dark:bg-slate-800 border-4 border-white dark:border-slate-800">
             <img 
-              src="/images/profile.jpg" 
+              src="images/profile.jpg" 
               alt="Santhakumar J S" 
               className="w-full h-full object-cover"
               onError={(e) => {
